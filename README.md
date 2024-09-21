@@ -1,5 +1,4 @@
-Weathercast Using Python and Django 
-*Weather Bug is the application of science and technology to predict the conditions of the atmosphere for a given location and time. You can get the realtime Weather forecasting by using this web application*
+*WeatherBug is the application of science and technology to predict the conditions of the atmosphere for a given location and time. You can get the realtime Weather forecasting by using this web application*
 
 
 -->
@@ -12,36 +11,24 @@ Weathercast Using Python and Django
 
 To run the app on your local machine, you need Python 3+, installed on your computer. Follow all the steps to run this project.
    
-1.  Create `venv` virtual environment:
-```bash
-pip install venv virtual_env_name
-```
+##  Create `venv` virtual environment:
+  pip install venv virtual_env_name
     
-2.  Activate `venv` virtual environment:
-```bash
-source virtual_env_name/Scripts/activate
-```
+##  Activate `venv` virtual environment:
+   source virtual_env_name/Scripts/activate
 
-
-```
-
-4. Then enter the corresponding directory:
-```bash
-cd Weather_App--Python-Django
-```
-    
-5. Install all the requirements using pip:
-```bash
-pip install -r requirements.txt
-``` 
+## Then enter the corresponding directory:
+   cd Weather_App--Python-Django
+   
+## Install all the requirements using pip:
+   pip install -r requirements.txt
 
 6.	Run server:
-```bash
-python manage.py runserver
-```
+   python manage.py runserver
 
-# Tools
+## Tools
 ## Front-end Part
+
 * HTML
 * CSS
 * Bootstrap
